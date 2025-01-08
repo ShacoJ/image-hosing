@@ -458,12 +458,12 @@
 
                 <!-- 左侧文本 -->
                 <text x="10" y="30" font-family="Arial" font-size="14" 
-                    fill="#ffffff" font-weight="bold">&lt;LINUX DO&gt; cooldz7</text>
+                    fill="#ffffff" font-weight="bold">&lt;LINUX DO&gt; coo7</text>
                 
 
                 <text id="rightText1" x="160" y="30" font-family="Arial" 
                     font-size="14" 
-                    fill="#f6f6f5" opacity="1">
+                    fill="#f6f6f5" opacity="1" font-weight="bold">
                     祝佬友们新年快乐，蛇来运转！
                     <animate attributeName="opacity" 
                             values="1;1;0;0;1" 
@@ -475,7 +475,7 @@
 
                 <text id="rightText2" x="160" y="30" font-family="Arial" 
                     font-size="14" 
-                    fill="#f6f6f5" opacity="0">
+                    fill="#f6f6f5" opacity="0" font-weight="bold">
                     热烈祝贺 LINUX DO 成立1周年
                     <animate attributeName="opacity" 
                             values="0;0;1;1;0" 
